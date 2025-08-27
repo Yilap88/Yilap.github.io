@@ -4,3 +4,6 @@ plugins:
 
 title: Yilap88's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+gem "github-pages", group: :jekyll_plugins
+
