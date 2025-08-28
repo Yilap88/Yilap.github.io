@@ -24,10 +24,10 @@ Recently, I have deepened my expertise in **Data Science** and **Machine Learnin
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+  <a href="https://www.linkedin.com/in/yilmerpalacios" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://github.com/tuusuario" target="_blank">
+  <a href="https://github.com/Yilap88" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
