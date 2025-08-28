@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Yilmer Palacios 👋</h1>
-<h3 align="center">Petroleum Engineer | Data Scientist | Applied Economics & Machine Learning</h3>
+<h3 align="center">Petroleum Engineer | Applied Economics | Data Scientist & Machine Learning</h3>
 
 ---
 
