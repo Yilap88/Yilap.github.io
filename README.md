@@ -9,11 +9,10 @@
 
 ## About Me
 
-I am a Petroleum Engineer and Data Scientist with solid experience in data analysis for the commercialization and transportation of oil and natural gas. Throughout my career, I have worked on data-driven solutions to optimize processes, improve decision-making, and enhance operational efficiency in the energy sector.
+I am a Petroleum Engineer with a Master's degree in Applied Economics and solid experience in data analysis for the commercialization and transportation of oil and natural gas. Throughout my career, I have developed data-driven solutions to optimize processes and improve decision-making in the energy sector.
 
-I hold a Master's degree and a specialization in Applied Economics, which provides a strong foundation in economic modeling and analytical thinking. Recently, I have deepened my expertise in **Data Science** and **Machine Learning**, focusing on predictive modeling, advanced analytics, and data-driven business strategies.
+Recently, I have deepened my expertise in **Data Science** and **Machine Learning**, focusing on predictive modeling, advanced analytics, and data-driven business strategies. I am passionate about applying **machine learning algorithms**, **statistical models**, and **big data techniques** to generate insights and create innovative solutions that deliver real value to organizations.
 
-I am passionate about applying **machine learning algorithms**, **statistical models**, and **big data techniques** to generate insights and create innovative solutions that deliver real value to organizations.
 
 ---
 
