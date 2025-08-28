@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/img/photo.jpg" width="200" style="border-radius:50%;" alt="Profile Photo">
+  <img src="assets/img/foto.jpg" alt="My Photo" style="width:150px; border-radius:50%; float:left; margin-right:20px;">
 </p>
 
 <h1 align="center">Hi, I'm Yilmer Palacios 👋</h1>
